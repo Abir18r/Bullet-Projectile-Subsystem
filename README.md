@@ -1,6 +1,6 @@
 # Advanced Bullet Projectile System
 
-#Get it on FAB Marketplace : ![Bullet Projectile Subsystem](https://www.fab.com/portal/listings/0abe80e0-0ff4-43bc-a845-11e3314ba184/edit)
+# Get it on FAB Marketplace : [Bullet Projectile Subsystem](https://www.fab.com/portal/listings/0abe80e0-0ff4-43bc-a845-11e3314ba184/edit)
 
 ## Overview
 This system provides a robust, high-performance bullet projectile simulation for Unreal Engine. It uses the **Gameplay Ability System (GAS)** for hit notifications and features advanced physics calculations, including penetration, ricochet, and drag force. 
